@@ -27,5 +27,6 @@ Watch or star this repository for notifications. Remember to check your open iss
 * AlfieC
 * IlPicasso
 * TitanicFreak
+* SmileyyyFaceee
 
 If you're missing from this list but shouldn't be, contact us. 
