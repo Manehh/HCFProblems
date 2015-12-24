@@ -28,5 +28,6 @@ Watch or star this repository for notifications. Remember to check your open iss
 * IlPicasso
 * TitanicFreak
 * SmileyyyFaceee
+* Mane
 
 If you're missing from this list but shouldn't be, contact us. 
